@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tmatheas
 - 👀 I’m interested in ... Angular Web Development
-- 🌱 I’m currently learning ... kotlin
+- 🌱 I’m currently learning ... flutter
 - 💞️ I’m looking to collaborate on ... Web/Mobile Projects
 - 📫 How to reach me ... Call me @9095558811
